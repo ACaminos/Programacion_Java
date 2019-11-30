@@ -1,4 +1,4 @@
-# Programacion_Java
+# Sistema ventas de Insumos
 
 El siguiente código trata de un cliente que ingresa al sistema de compras y gana de forma automática un voucher de compra de $5000.
 El mismo deberá ser canjeado por los productos que se encuentran en el listado que figurarán en el menú de la pantalla.
